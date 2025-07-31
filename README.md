@@ -9,7 +9,7 @@ A dynamic playlist generator that recommends YouTube playlists based on your tas
 
 ## Live Demo
 
-👉 [Live Site](https://focus-tunes.vercel.app)
+👉 [Live Site](https://focus-tunes.vercel.app/)
 
 ## Technologies
 
